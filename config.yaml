@@ -14,3 +14,7 @@ git_services:
       - redhat-appstudio/tssc-dev-multi-ci
     token: "${GITHUB_TOKEN}"
     type: github
+    automated_users:
+       - renovate[bot]
+       - dependabot[bot]
+       - red-hat-konflux[bot]
