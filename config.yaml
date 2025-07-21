@@ -8,7 +8,7 @@ git_services:
       - redhat-appstudio/tssc-sample-pipelines
       - redhat-appstudio/tssc-sample-jenkins
       # TODO: This may no longer be used.
-      - redhat-appstudio/tssc-sample-gitops
+      # - redhat-appstudio/tssc-sample-gitops
       - redhat-appstudio/tssc-dev-gitops
       - redhat-appstudio/tssc-sample-sbom-scans
       - redhat-appstudio/tssc-dev-multi-ci
